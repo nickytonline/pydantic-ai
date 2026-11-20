@@ -174,3 +174,6 @@ if __name__ == '__main__':
 ```
 
 _(This example is complete, it can be run "as is")_
+
+!!! tip "Securing a production MCP server"
+    For deployments that authenticate users or access upstream services like Google Drive, GitHub, or Slack, see the [OAuth guide](oauth.md).

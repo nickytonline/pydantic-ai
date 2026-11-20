@@ -884,6 +884,12 @@ navigation:
       - page: "Server"
         path: "mcp/server.md"
         slug: "mcp/server"
+      - page: "OAuth"
+        path: "mcp/oauth.md"
+        slug: "mcp/oauth"
+      - page: "Pomerium"
+        path: "mcp/pomerium.md"
+        slug: "mcp/pomerium"
   - section: "Pydantic Evals"
     slug: ""
     contents:
